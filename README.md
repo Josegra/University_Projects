@@ -1,6 +1,6 @@
-### University_Projects
-![image](https://github.com/Josegra/University_Projects/assets/29695897/8d0ea9b6-5d34-4efc-87e7-5cc813e5fe6a)
 
+![image](https://github.com/Josegra/University_Projects/assets/29695897/8d0ea9b6-5d34-4efc-87e7-5cc813e5fe6a)
+### University_Projects
 These are a list of projects from my Master's degree of Big Data and Data Science at Universidad Complutense de Madrid : 
 - [Python](https://github.com/Josegra/University_Projects/tree/main/Python)
 - [Statistics](https://github.com/Josegra/University_Projects/tree/main/Estadistica)
